@@ -38,4 +38,4 @@ It respawns every 5 minutes after it is killed.
 If you get too far for the giant to follow, it will teleport to a random player.
 
 # Ender Dragon
-The ender dragon boss has been buffed with new attack stages
+The ender dragon boss has been buffed with new attack stages. Including lightning attacks, bigger fireballs, Ranged Phantom minions, Lesser landings, Gravity Manipulation and explosive fireballs
