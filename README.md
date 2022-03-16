@@ -13,4 +13,4 @@ New Crafting Recipes have also been added, if you want to discover them yourself
 
 # Credits
 This Datapack was inspired by Fundy and Mysticat and was made possible with lots of help from the Minecraft Commands Discord.
-Made by Naarwhall
+Made by Naarwhall, please do not repost this.
