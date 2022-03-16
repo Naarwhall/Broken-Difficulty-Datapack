@@ -6,6 +6,7 @@ Rotten Flesh can now be smelted or smoked or cooked in a campfire to get Steak w
 ##
 ### Enchanted Golden Apples
 Enchanted Golden Apples can now be crafted but for a price.
+
 ![image](https://user-images.githubusercontent.com/70463009/158563415-c2b44065-4e93-4606-ba64-e418d731bcd1.png)
 ##
 ### Knockback Sticks
