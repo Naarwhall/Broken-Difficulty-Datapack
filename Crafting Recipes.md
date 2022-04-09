@@ -18,7 +18,7 @@ Knockback Sticks can now be crafted but will disappear from your inventory if yo
 ### Automatic Crossbows
 Automatic Crossbows fire rounds of arrows when shot.
 
-![image](https://user-images.githubusercontent.com/70463009/162575293-3aa590e6-bcba-4f73-afb3-1bac3e3a4a29.png)
+![image](https://user-images.githubusercontent.com/70463009/162575486-a790807e-64bd-4c96-9c61-9679fea1fd76.png)
 ##
 ### Multishot Crossbows
 Multishot Crossbows fire multiple rounds of arrows in 3 different directions.
