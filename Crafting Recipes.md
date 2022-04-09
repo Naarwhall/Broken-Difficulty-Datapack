@@ -13,7 +13,7 @@ Enchanted Golden Apples can now be crafted but for a price.
 ### Knockback Sticks
 Knockback Sticks can now be crafted but will disappear from your inventory if you hold it for too long.
 
-![image](https://user-images.githubusercontent.com/70463009/158564077-9f03d6a1-99e5-4955-af09-e5fcf43da380.png)
+![image](https://user-images.githubusercontent.com/70463009/162575438-ff187268-fb5c-4475-9bfd-2f5f2dd84d64.png)
 ##
 ### Automatic Crossbows
 Automatic Crossbows fire rounds of arrows when shot.
